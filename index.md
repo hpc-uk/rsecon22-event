@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## ExCALIBUR RSEs meet HPC Champions
 
-You can use the [editor on GitHub](https://github.com/hpc-uk/rsecon22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* When? 0830-1600, Friday 9 September 2022
+* Where? FDC.G06, Frederick Douglass Centre, Newcastle University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Agenda
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hpc-uk/rsecon22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Time |  |
+|------|--|
+| 08.30 | Arrival & Coffee |
+| 09.00 | Welcome - Marion Weinzierl, Andy Turner |
+| 09.15 | ExCALIBUR Project lightning talks - Speakers TBC |
+| 10.00 | Short break |
+| 10.05 | Talk: RSE Development and Training: UNIVERSE-HPC - Speaker TBC |
+| 10.15 |Talk: RSE Development and Training: RSE training in algorithms for exascale simulations - Jemma Shipton, Omar Jamil |
+| 10:30 | Coffee Break |
+| 10.45 | HPC Champions presentations - Speakers TBC |
+| 11.30 | Short break |
+| 11:40 | Software/problem demos - Presenters TBC |
+| 12.30 | Lunch Break |
+| 13.30 | Introduce breakout discussions & form groups |
+| 13.45 | Breakout discussions about potential collaborations and common problems/questions |
+| 14.30 | Report-back from groups | 
+| 15.00 | Wrap-up/Plenary discussion: Where do we go from here? |
+| 15.15 | Coffee & chat |
+| 16:00 | End |
