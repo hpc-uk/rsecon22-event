@@ -27,11 +27,11 @@ This agenda will be updated with more details as they become available
 | 09.00 | Welcome - Marion Weinzierl, Andy Turner |
 | 09.15 | ExCALIBUR Project lightning talks - Speakers TBC |
 | 10.00 | Short break |
-| 10.05 | Talk: RSE Development and Training: UNIVERSE-HPC - David Henty |
-| 10.15 | Talk: RSE Development and Training: RSE training in algorithms for exascale simulations - Jemma Shipton, Omar Jamil |
+| 10.05 | Talk: RSE Development and Training: UNIVERSE-HPC - David Henty, EPCC |
+| 10.15 | Talk: RSE Development and Training: RSE training in algorithms for exascale simulations - Jemma Shipton, Omar Jamil, University of Exeter |
 | 10:30 | Coffee Break |
-| 10.45 | HPC Container Engines - Christian Kniep |
-| 11:10 | HPC-JEEP: Job level emissions on HPC systems - Alastair Basden and Andy Turner |
+| 10.45 | HPC Container Engines - Christian Kniep, QNIB Solutions |
+| 11:10 | The Role of HPC in Fusion Engineering - Helen Brooks, UKAEA |
 | 11.30 | Short break |
 | 11:40 | Software/problem demos |
 | 12.30 | Lunch Break |
