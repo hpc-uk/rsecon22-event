@@ -19,8 +19,6 @@ Registration for this event is free and is available on a first-come, first-serv
 
 ### Agenda
 
-This agenda will be updated with more details as they become available
-
 | Time |  |
 |------|--|
 | 08.30 | Arrival & Coffee |
