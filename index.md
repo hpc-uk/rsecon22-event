@@ -27,9 +27,9 @@ Registration for this event is free and is available on a first-come, first-serv
 |       | Jeremy Yates - The Exascale IO Challenge - orchestrating data movement from disk to registers and back again |
 |       | Ricky Olivier - An Exascale Uncertainty Toolbox |
 |       | Garth Wells - Finite Element Methods at Exascale | 
-|       | Jack Betteridge: Firedrake | 
+|       | Jack Betteridge - Firedrake | 
 |       | Chris Richardson - Scaling an application with unscalable MPI on 100000 processes |
-|       | Sadie Bartholomew: ExCALIData
+|       | Sadie Bartholomew - ExCALIData
 |       | Tobias Weinzierl - Low performance and low level programming - how the lack of knowledge about (and training in) hardware, compilers and C programming threatens our HPC projects|
 |       | Andy Turner/Alastair Basden - HPC-JEEP - energy monitoring on HPC systems |
 | 10.00 | Short break |
@@ -55,6 +55,6 @@ Registration for this event is free and is available on a first-come, first-serv
 ### More information
 
 If you have any questions about this event or are interested in providing a short presentation as part
-of the event, please contact the organisers: [Marion Weinzierl](mailto:marion.weinzierl@durham.ac.uk) and
-[Andy Turner](mailto:a.turner@epcc.ed.ac.uk).
+of the event, please contact the organisers: [Marion Weinzierl](mailto:marion.weinzierl@durham.ac.uk),
+[Andy Turner](mailto:a.turner@epcc.ed.ac.uk) and Jemma Shipton (mailto:J.Shipton@exeter.ac.uk).
 
