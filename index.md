@@ -56,5 +56,5 @@ Registration for this event is free and is available on a first-come, first-serv
 
 If you have any questions about this event or are interested in providing a short presentation as part
 of the event, please contact the organisers: [Marion Weinzierl](mailto:marion.weinzierl@durham.ac.uk),
-[Andy Turner](mailto:a.turner@epcc.ed.ac.uk) and Jemma Shipton (mailto:J.Shipton@exeter.ac.uk).
+[Andy Turner](mailto:a.turner@epcc.ed.ac.uk) and [Jemma Shipton](mailto:J.Shipton@exeter.ac.uk).
 
