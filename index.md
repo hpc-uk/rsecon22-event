@@ -25,15 +25,16 @@ This agenda will be updated with more details as they become available
 |------|--|
 | 08.30 | Arrival & Coffee |
 | 09.00 | Welcome - Marion Weinzierl, Andy Turner |
-| 09.15 | ExCALIBUR Project lightning talks - Speakers TBC |
+| 09.15 | ExCALIBUR Project lightning talks  <ul> <li> Jeremy Yates - The Exascale IO Challenge - orchestrating data movement from disk to registers and back again</li> <li> Ricky Olivier - An Exascale Uncertainty Toolbox</li> <li> Garth Wells - Finite Element Methods at Exascale</li> <li> Jack Betteridge: Firedrake</li> <li> Chris Richardson - "Scaling an application with unscalable MPI on 100000 processes"</li> <li> Sadie Bartholomew: "ExCALIData"</li> <li> Tobias Weinzierl - Low performance and low level programming - how the lack of knowledge about (and training in) hardware, compilers and C programming threatens our HPC projects</li> <li> Andy Turner/Alastair Basden - HPC-JEEP - energy monitoring on HPC systems</li></ul> |
 | 10.00 | Short break |
-| 10.05 | Talk: RSE Development and Training: UNIVERSE-HPC - David Henty, EPCC |
-| 10.15 | Talk: RSE Development and Training: RSE training in algorithms for exascale simulations - Jemma Shipton, Omar Jamil, University of Exeter |
+| 10.05 | David Henty, EPCC - RSE Development and Training: UNIVERSE-HP |
+| 10.20 | Jemma Shipton, Omar Jamil, University of Exeter - RSE Development and Training: RSE training in algorithms for exascale simulations |
 | 10:30 | Coffee Break |
-| 10.45 | HPC Container Engines - Christian Kniep, QNIB Solutions |
-| 11:10 | The Role of HPC in Fusion Engineering - Helen Brooks, UKAEA |
-| 11.30 | Short break |
-| 11:40 | Software/problem demos |
+| 10.45 | Lewis Sampson/MetOffice SSEs - The Met Office and the ExCALIBUR pool of deployable SSEs |
+| 11.00 | Helen Brooks, UKAEA - The Role of HPC in Fusion Engineering |
+| 11:15 | Christian Kniep, QNIB Solutions - HPC Container Engines |
+| 11.35 | Short break |
+| 11:50 | Software/problem demos <ul> <li>Christian Kniep - Containers Demo</li> <li>Matt West - Workflow management toolset</li> <li>Otter: A Data-Driven Workflow for Parallelising Serial HPC Code</li> </ul>|
 | 12.30 | Lunch Break |
 | 13.30 | Introduce breakout discussions & form groups |
 | 13.45 | Breakout discussions about potential collaborations and common problems/questions |
