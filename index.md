@@ -41,7 +41,6 @@ Instructions for discussion session scribes/leaders:
 | 09.15 | ExCALIBUR Project lightning talks  |
 |       | Jeremy Yates, UCL - *The Exascale IO Challenge - orchestrating data movement from disk to registers and back again* |
 |       | Ricky Olivier, University of Exeter - *An Exascale Uncertainty Toolbox* |
-|       | Garth Wells, University of Cambridge - *Finite Element Methods at Exascale* | 
 |       | Jack Betteridge, Imperial Colledge London - *Firedrake* | 
 |       | Chris Richardson, University of Cambridge - *Scaling an application with unscalable MPI on 100000 processes* |
 |       | Sadie Bartholomew, NCAS - *ExCALIData*
