@@ -19,15 +19,15 @@ Registration for this event is free and is available on a first-come, first-serv
 
 ### Presentations
 
-Presentations will be made available online at: https://bit.ly/rsecon-hpc
+Presentations will be made available online on [Google Drive](https://bit.ly/rsecon-hpc)
 
 ### Discussion sessions
 
-Discussion session notes will be recordes at: https://bit.ly/rsecon-hpc
+Discussion session notes will be recorded in documents on [Google Drive](https://bit.ly/rsecon-hpc)
 
 Instructions for discussion session scribes/leaders:
 
-1. Go to: https://bit.ly/rsecon-hpc
+1. Go to [Google Drive](https://bit.ly/rsecon-hpc)
 2. Make a copy of the "Discussion Notes: Template" document
 3. Rename the copy with the topic you are discussing
 4. Discuss and complete the notes!
